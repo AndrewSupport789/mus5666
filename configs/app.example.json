@@ -9,7 +9,7 @@
     "activity_text": "use .help command"
   },
   "youtube": {
-    "token": "",
+    "token": (process.env.api_key);
     "base_url": "https://www.youtube.com"
   }
 }
